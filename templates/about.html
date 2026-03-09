@@ -1,0 +1,32 @@
+{% extends "index.html" %}
+{% block title %}
+<section class="welcome_section layout_padding">
+  <div class="container-fluid">
+    <div class="row">
+      <div class=" col-md-6">
+        <div>
+          <img class="img-fluid" src="/static/images/i5.jpg" alt="" style="height: 450px;" />
+        </div>
+      </div>
+      <div class=" col-md-6">
+        <div class="welcome_detail">
+          <h4>
+            Enhanced Verifiable Homomorphic Secret Sharing For Cloud Computing
+          </h4>
+          <p>
+            AES is a cryptographic technique designed to ensure secure and private data processing in cloud environments. In this approach, AES (Advanced Encryption Standard) is used to encrypt data, ensuring that sensitive information remains confidential. The encrypted data is then split into multiple shares using secret sharing techniques, which are distributed among different parties. This method allows computations to be performed on these encrypted shares without revealing the original data. Additionally, the "verifiable" aspect ensures that the computations are correct and reliable, providing assurance to the parties involved. This technique is especially beneficial in cloud computing, where multiple untrusted entities may need to collaborate without exposing sensitive information, ensuring privacy and security while maintaining the integrity of the computations. It is an ideal solution for industries requiring high levels of data protection, such as healthcare, finance, and government sectors.
+          </p>
+          <div class="welcome_detail-btn">
+            <a href="">
+              <span>
+                Read More
+              </span>
+              <img src="/static/images/arrow-black.png" alt="" class="ml-2" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock  %}

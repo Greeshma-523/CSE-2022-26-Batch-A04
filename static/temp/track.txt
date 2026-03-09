@@ -1,0 +1,25 @@
+Title:Employee Tracking System.
+Modules:
+Admin: 
+Login: He can login into website by entering their details.
+Add Employee's: here he can add the employees with their basic details.
+view employees: He can view the employees.
+add tasks:Here he can add the tasks for employees based on department.
+update and delete tasks: he can update and delete tasks.
+view responses: he can view task responses from the employees.(date and time)
+
+
+Employees:
+Login: He can login into website by entering their details.
+view tasks: he can view tasks.
+Reply Tasks: He can give the replies to that tasks.
+View Task Status:he can view their task status.
+
+
+Software Requirements:
+Domain: Mern
+
+Project type: new
+
+working hours: 50hrs
+

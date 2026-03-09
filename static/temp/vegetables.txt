@@ -1,0 +1,17 @@
+Project Title: Reusable Platform
+Modules:
+User:
+Register: Users can register by entering their details.
+Login: Users can log in after being approved by the admin.
+View All Products: Users can view all available products.
+Upload Products: Users can upload products to the platform.
+
+Collect Product: Users can collect the products.
+Chat with Users: Users can chat with each other.
+View User Profiles: Users can view their own profiles and other users' profiles.
+Admin:
+Login: Admins can log in to the website.
+View and Allow Users: Admins can view and approve users on the website.
+View Products: Admins can view the uploaded products.
+View Collected Products: Admins can view the collected products.
+Estimated Time: 50-60 hours

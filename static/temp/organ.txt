@@ -1,0 +1,33 @@
+Title:ORGAN MATCHING & TRANSPLANTATION
+Modules:
+Hospital:
+Login:Here Hospital can login into website by entering their credentials.
+View Donors: Here hospital can view the Donors.
+view patients: here hospital can view the patients.
+view requests: Here hospital can view the requests of patients and accept or reject the request and hospital can transplant the organ.
+view  Transplantation history: Hospital can view the Transplantation History.
+
+Donor Module:
+Register: The donor can register with providing valid information.
+Login: The donor can login with using valid credentials.
+upload the data : here he can upload the donation details.
+View donates status: The donor can view the status of donation.
+
+Patient:
+Register:The patient can register with providing valid information.
+Login:Login: The patinet can login with using valid credentials.
+view and request for organ:he can view the list of organs according blood group and organ name and he can also send request to hospital.
+view Response: Here he can view the status of transplantation.
+
+Logout: All can logout after completion of their operations.
+
+Software Requirements:
+Frontend:Html, css, js 
+Backend:python
+database:Sql/Sqlite
+
+working Hours:45
+
+
+
+

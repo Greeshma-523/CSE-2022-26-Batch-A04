@@ -1,0 +1,32 @@
+Title:Confidential Student Record Management Using Visual Cryptography in Educational Institutions
+Modules: 
+Management: 
+Register: Management can register into website by entering details.
+Login: He can login into website by entering their credentials.(after admin authorized)
+upload files: Here he can upload their files into website and he can encrypt that file using ECC.
+view files: here he can view their files.
+view file request: Here Management can view his file requests and decrypt the file.
+
+Student:
+Register: Student can register into website by entering details.
+Login: He can login into website by entering their credentials.(after admin authorized)
+view files : He can view the file and send a file request to data owner.
+view response: here he can view the requested file response.
+download file: he can download the file by using the key.
+
+Cloud :
+Login: He can login into website by entering their credentials.
+view and authorize Management: here admin can view the registered Management and he can authorize and unauthorize the Management.
+view and authorize Student: here admin can view the registered Student and he can authorize and unauthorize the Student.
+send key: Here admin can send a key through email for downloading the file.
+view file treansactions: here user can view the file transactions.
+
+Software Requirements:
+Domain: Cloud
+front end: Html, Css, JS
+Backend : Django
+Database: Sqlite
+
+Project Type: New
+
+Working  hours: 40
